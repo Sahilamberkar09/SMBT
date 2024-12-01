@@ -649,7 +649,7 @@ section.hero {
   width: 100%;
   align-items: center;
   position: relative;
-  padding: 6rem 15px 10rem 15px;
+  padding: 7rem 15px 10rem 15px;
   animation: hover-animation 2s ease-in-out infinite alternate-reverse both; /* The animation css is at the bottom of the file*/
 }
 
